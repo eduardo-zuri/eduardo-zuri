@@ -18,8 +18,8 @@
       <ul>
         <li>Linguagens: Python, SQL, JavaScript/TypeScript, C/C++</li>
         <li>Dados: Power BI, ETL, modelagem dimensional (Star/Snowflake Schema)</li>
-        <li>Ferramentas: Git, LaTeX</li>
-        <li>Cloud & IoT: ESP32, MQTT, AWS IoT Core</li>
+        <li>Ferramentas e Frameworks: Git, GitHub, LaTeX, react</li>
+        <li>Cloud & IoT: Azure, AWS</li>
       </ul>
       <h2>Contato</h2>
       <ul>
